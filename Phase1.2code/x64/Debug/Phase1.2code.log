@@ -1,0 +1,66 @@
+﻿  AD.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(18,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(30,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(73,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(109,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(146,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(189,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AD.cpp(225,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AlienArmy.cpp
+  AM.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AM.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AM.cpp(16,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AM.cpp(47,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AM.cpp(102,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ArrayPointers.cpp
+  AS.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AS.cpp(27,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\AS.cpp(75,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EarthArmy.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EG.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(21,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(46,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(99,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(132,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EG.cpp(162,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ES.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ES.cpp(40,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ET.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(32,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(68,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(106,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(144,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(178,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(215,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(276,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\ET.cpp(313,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Game.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\Game.cpp(501,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\Game.cpp(504,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\Game.cpp(506,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\Game.cpp(509,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HU.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\HU.cpp(46,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\HU.cpp(87,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  RandGen.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Unit.cpp
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\EarthArmy.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\Game.cpp(594): warning C4715: 'Game::removefromUML2': not all control paths return a value
+C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\Phase1.2code\DoubleListQueue.h(102): warning C4715: 'DoubleListQueue<AD *>::dequeueback': not all control paths return a value
+  Phase1.2code.vcxproj -> C:\Users\alikh\Documents\Ali's Files\UNI\Data Structure & Algorithms - CMPS103\DS Project Final Elhamdulilah v2.0\Phase1.2code\x64\Debug\Phase1.2code.exe

@@ -1,0 +1,7 @@
+7            "N number of army units to generate each timestep"
+35 25 35 5   "Percentages of ES,ET,EG,HU respectively for earth army"
+40 35 25	     "Percentages of AS,AM,AD respectively for alien army"
+30  "Prob used by generator"
+
+10-30 15-30 1-4 "Ranges of Unit power,health,attack capacity for earth army"
+10-30 15-30 1-4 "Ranges of unit power,health,attack capacity for alien army"
